@@ -1,0 +1,34 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: a pilot plus photographer equals
+layout_spectrum: 0.5475069738458842
+typography_spectrum: 0.45846582925878465
+color:
+  brandStrength: 0.28496420779265463
+  lightness: 0.9168102364055812
+  saturation: 0.1461342207621783
+  rhythmicContrast: 0.03784516640007496
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+content: []
+title: a pilot + photographer =
+description: imagery and video from my flying camera
+author:
+  name: Rick Armbrust
+  email: rickarm@gmail.com
+opengraph:
+  type: ''
+analytics:
+  twitter: ''
+  google: UA-43708582-3
+url: 'http://rickarm.com'
+github: true
